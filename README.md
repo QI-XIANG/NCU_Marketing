@@ -1,6 +1,6 @@
 # NCU Marketing Management
 
-![](https://badgen.net/github/watchers/QI-XIANG/NCU_Marketing) ![](https://badgen.net/github/commits/QI-XIANG/NCU_Marketing) ![](https://badgen.net/github/last-commit/QI-XIANG/NCU_Marketing) ![](https://badgen.net/github/license/QI-XIANG/NCU_Marketing)
+![](https://badgen.net/github/watchers/QI-XIANG/NCU_Marketing_Management) ![](https://badgen.net/github/commits/QI-XIANG/NCU_Marketing_Management) ![](https://badgen.net/github/last-commit/QI-XIANG/NCU_Marketing_Management) ![](https://badgen.net/github/license/QI-XIANG/NCU_Marketing_Management)
 
 | 課程名稱: | 課程時間 | 授課教授 |
 | -------- | -------- | -------- |
@@ -14,7 +14,7 @@
 
 * 公司名稱 : LAHG (Live Action Hunting Game)
 * 公司服務項目 : 推出同名手遊 LAHG (Live Action Hunting Game)
-* [網頁連結](https://qi-xiang.github.io/NCU_Marketing/)
+* [網頁連結](https://qi-xiang.github.io/NCU_Marketing_Management/%E8%A1%8C%E9%8A%B7%E6%9C%9F%E6%9C%AB%E7%B6%B2%E9%A0%81/)
 
 
 ### 行銷作業區
